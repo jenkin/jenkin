@@ -1,17 +1,17 @@
 # Hey There! 👋
 **I'm Alessio (he/him)** - I'm a web developer based on Padua, Italy. I'm interested in software development, on-line and on-chain ecosystems and communities, physics of complex systems. I contribute to FOSS projects in my free time!
 
-![SimpleSkillIcons](https://simpleskill.icons.workers.dev/svg?i=linux,debian,kde,gnubash)
+![SimpleSkillIcons](https://simpleskill.icons.workers.dev/svg?i=linux,debian,kde,gnubash&theme=dark)
 
-![SimpleSkillIcons](https://simpleskill.icons.workers.dev/svg?i=visualstudiocode,vim)
+![SimpleSkillIcons](https://simpleskill.icons.workers.dev/svg?i=visualstudiocode,vim&theme=dark)
 
-![SimpleSkillIcons](https://simpleskill.icons.workers.dev/svg?i=html5,css3,svg,markdown)
+![SimpleSkillIcons](https://simpleskill.icons.workers.dev/svg?i=html5,css3,svg,markdown&theme=dark)
 
-![SimpleSkillIcons](https://simpleskill.icons.workers.dev/svg?i=javascript,typescript,nodedotjs,python)
+![SimpleSkillIcons](https://simpleskill.icons.workers.dev/svg?i=javascript,typescript,nodedotjs,python&theme=dark)
 
-![SimpleSkillIcons](https://simpleskill.icons.workers.dev/svg?i=react,nextdotjs,gatsby,mui,d3dotjs,openapiinitiative,graphql)
+![SimpleSkillIcons](https://simpleskill.icons.workers.dev/svg?i=react,nextdotjs,gatsby,mui,d3dotjs,openapiinitiative,graphql&theme=dark)
 
-![SimpleSkillIcons](https://simpleskill.icons.workers.dev/svg?i=git,docker,github,gitlab)
+![SimpleSkillIcons](https://simpleskill.icons.workers.dev/svg?i=git,docker,github,gitlab&theme=dark)
 
 <details>
   <summary>Github Stats ⚡</summary>
