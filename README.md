@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Alessio (he/him)** - I'm a web developer based on Padua, Italy. I'm interested in software development, on-line and on-chain ecosystems and communities, physics of complex systems. I contribute to FOSS projects in my free time!
+**I'm Alessio (he/him)** - I'm a web developer based on a little town at the foot of the Belluno Dolomites, in Italy. I'm interested in software development, on-line and on-chain ecosystems and communities, physics of complex systems. I contribute to FOSS projects whenever I can!
 
 ![SimpleSkillIcons](https://simpleskill.icons.workers.dev/svg?i=linux,debian,kde,gnubash&theme=dark)
 
